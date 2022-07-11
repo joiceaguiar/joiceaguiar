@@ -2,7 +2,7 @@
 <p> Olá! 👋 Meu nome é Joice, tenho 30 anos e moro em São Paulo - SP. Trabalho com arte e educação desde os 15 anos. Encontrei com a programação no final de 2020, estudando marketing digital e algoritmo do Instagram. Quando escrevi minhas primeiras linhas de código, me apaixonei! Fiquei fascinada por resolver problemas e pelas infinitas possibilidades que a rede e a tecnologia oferecem. Decidi realizar minha transição de carreira para tecnologia em 2021 e aqui estou, prestes a realizar este sonho! </p>
 <div align="left" style="display: inline_block">
     <h3>Sobre mim:</h3>
-    <li>🤹‍♀️ Sou mãe full time do meu filho Maori, há 5 anos;</li>
+    <li>💕 Sou mãe full time do meu filho Maori, há 5 anos;</li>
     <li>🛠 Estudante de Engenharia de Computação na <a href="https://univesp.br">Univesp</a>;</li>
     <li>👩‍💻 Estudante de Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a> – Turma <a href="https://www.xpinc.com/">XP Inc.</a>;</li>
     <li>🌌 Fascinada pela natureza, pelo universo e por todos os mistérios que os envolvem;</li>
