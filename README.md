@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=42C920&width=450&lines=console.log(%22Hello%2C+World!%22))](https://git.io/typing-svg)
 <hr>
 <p> Olá! 👋 Meu nome é Joice, tenho 30 anos e moro em São Paulo - SP. Trabalho com arte e educação desde os 15 anos. Encontrei com a programação no final de 2020, estudando marketing digital e algoritmo do Instagram. Quando escrevi minhas primeiras linhas de código, me apaixonei! Fiquei fascinada por resolver problemas e pelas infinitas possibilidades que a rede e a tecnologia oferecem. Decidi realizar minha transição de carreira para tecnologia em 2021 e aqui estou, prestes a realizar este sonho! </p>
-
 <hr>
 <div align="left" style="display: inline_block">
     <h3>Sobre mim:</h3>
@@ -15,7 +14,6 @@
 </div>
 <hr>
 <h3 align="center">🛠 Skills 🛠</h3>
-
 <hr>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
 <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
