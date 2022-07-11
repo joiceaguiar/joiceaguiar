@@ -11,7 +11,7 @@
     <li>💭 Amo trocar ideias sobre livros, filmes, séries, física e desenvolvimento pessoal;</li>
     <li>⚽ Também falo sobre política, religião e futebol;</li>
     <li>🫂 Adoro criar conexões! Valorizo muito a troca, a fala e a escuta;</li>
-    <li>🐶 Curiosidade: tenho 3 catiorineos fofineos – Aira, Iori e Zara.</li>
+    <li>🐶 Curiosidade: tenho 3 catiorineos – Aira, Iori e Zara.</li>
 </div>
 <hr>
 <h3 align="center">🛠 Skills 🛠</h3>
