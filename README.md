@@ -9,7 +9,7 @@
     <li>👩‍💻 Estudante de Desenvolvimento de Software na <a href="https://betrybe.com">Trybe</a> – Turma <a href="https://www.xpinc.com/">XP Inc.</a>;</li>
     <li>🌌 Fascinada pela natureza, pelo universo e por todos os mistérios que os envolvem;</li>
     <li>💬 Amo trocar ideias sobre livros, filmes, séries, física e desenvolvimento pessoal;</li>
-    <li>⚽ Também gosto de discutir política, religião e futebol;</li>
+    <li>⚽ Também gosto de discutir futebol, política e religião;</li>
     <li>🫂 Adoro criar conexões! Valorizo muito a troca, a fala e a escuta;</li>
     <li>🐶 Curiosidade: tenho 3 catiorineos – Aira, Iori e Zara.</li>
 </div>
