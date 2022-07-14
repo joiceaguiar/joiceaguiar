@@ -2,6 +2,8 @@
 <hr>
 <p> Olá! 🖖 Sou a Joice (ela/dela), tenho 30 anos e moro em São Paulo/SP. Trabalho com arte e educação desde os 15 anos. Encontrei a programação no final de 2020, estudando marketing digital e algoritmo do Instagram. Quando escrevi minhas primeiras linhas de código, me apaixonei! Fiquei ainda mais fascinada por resolver problemas e pelas infinitas possibilidades que a rede e a tecnologia oferecem. Decidi iniciar minha transição de carreira para tecnologia em 2021 e aqui estou, prestes a realizar este sonho! </p>
 <hr>
+<div align="center">
+  <img height="250" align="right" src="https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-5.gif" />
 <div align="left" style="display: inline_block">
     <h3>Sobre mim:</h3>
     <li>💕 Sou mãe full time do Maori, há 5 anos;</li>
@@ -11,7 +13,7 @@
     <li>💬 Amo trocar ideias sobre livros, filmes, séries, física e desenvolvimento pessoal;</li>
     <li>⚽ Também curto discutir futebol, política e religião;</li>
     <li>🫂 Adoro criar conexões! Valorizo muito a troca, a fala e a escuta;</li>
-    <li>🐶 Curiosidade: tenho 3 catiorineos – Aira, Iori e Zara.</li>
+    <li>🐶 Curiosidade: tenho 3 catioríneos – Aira, Iori e Zara.</li>
 </div>
 <hr>
 <h3 align="center">🛠 Skills 🛠</h3>
