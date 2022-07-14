@@ -4,6 +4,7 @@
 <hr>
 <div align="center">
   <img height="250" align="right" src="https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-5.gif" />
+</div>
 <div align="left" style="display: inline_block">
     <h3>Sobre mim:</h3>
     <li>💕 Sou mãe full time do Maori, há 5 anos;</li>
