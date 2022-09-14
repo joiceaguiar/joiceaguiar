@@ -15,7 +15,6 @@
 </div>
 <hr>
 <h3 align="center">🛠 Skills 🛠</h3>
-<hr>
 <div align="center" style="margin-top: 30px" style="display: inline_block">
 <img title="Linux" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
 <img title="Git" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
