@@ -2,7 +2,7 @@
 <hr>
 <h3> Olá! 🖖 Eu sou a Joice (ela/dela): </h3>
 <div align="center">
-  <img height="260" align="right" src="https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-5.gif" />
+  <img height="250" align="right" src="https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-5.gif" />
 <div align="left" style="display: inline_block">
     <li>💪 Mãe full time do Maori há 5 anos;</li>
     <li>🚀 Engenheira de Software na <a href="https://www.xpinc.com/">XP Inc.</a>;</li>
