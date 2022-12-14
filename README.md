@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=23&color=42C920&width=450&lines=console.log(%22Hello%2C+World!%22))](https://git.io/typing-svg)
 <h3> Olá! 🖖 Eu sou a Joice (ela/dela): </h3>
 <div align="center">
-  <img height="230" align="right" src="https://www.gifcen.com/wp-content/uploads/2021/05/black-hole-gif-5.gif" />
 <div align="left" style="display: inline_block">
     <li>💪 Mãe full time do Maori há 5 anos;</li>
     <li>🚀 Engenheira de Software na <a href="https://www.xpinc.com/">XP Inc.</a>;</li>
